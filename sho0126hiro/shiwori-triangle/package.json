@@ -1,0 +1,17 @@
+{
+  "name": "shiwori-triangle",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^31.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
+    "d3-array": "2.0.2",
+    "d3-scale": "2.1.2",
+    "d3-shape": "1.2.2",
+    "react-native-paper": "2.1.3"
+  }
+}
